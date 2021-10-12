@@ -1,0 +1,32 @@
+body{
+    color: white;
+}
+
+.background{
+    background: #0198E1;
+    height: 60%;
+    border-radius: 45px;
+    box-shadow: 20px 20px #0BB5FF;
+}
+
+.heading1{
+    background: #0198E1;
+    padding: 10px;
+    border-radius: 45px;
+    box-shadow: 20px 20px #0BB5FF;
+    margin-top: 10px;
+    color: white;
+    text-shadow: 2px 2px grey;
+}
+
+#boringstuffs{
+    background-color: #0BB5FF;
+    width: 50%;
+    border-radius: 45px;
+    
+}
+
+#camera{
+    border: inset lightskyblue;
+    
+}
